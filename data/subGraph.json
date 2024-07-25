@@ -1,0 +1,125 @@
+{
+  "nodes": [
+    {
+      "id": "10001",
+      "label": "GSK",
+      "title": "GSK",
+      "color": "#fdfd00",
+      "size": 50,
+      "shape": "image",
+      "image": "https://www.mxp-webshop.de/media/image/20/82/24/GSK-Logo.png"
+    },
+    {
+      "id": "FOX CHASE CANCER CENTER",
+      "label": "FOX CHASE CANCER CENTER",
+      "title": "FOX CHASE CANCER CENTER",
+      "color": "#fb7e81",
+      "shape": "dot"
+    },
+    {
+      "id": "Joel Helmke",
+      "label": "Joel Helmke",
+      "title": "Joel Helmke",
+      "color": "#95c0f9",
+      "shape": "dot"
+    },
+    {
+      "id": "James Helstrom",
+      "label": "James Helstrom",
+      "title": "James Helstrom",
+      "color": "#95c0f9",
+      "shape": "dot"
+    },
+    {
+      "id": "Jerome Maddox",
+      "label": "Jerome Maddox",
+      "title": "Jerome Maddox",
+      "color": "#95c0f9",
+      "shape": "dot"
+    },
+    {
+      "id": "Robert Uzzo",
+      "label": "Robert Uzzo",
+      "title": "Robert Uzzo",
+      "color": "#95c0f9",
+      "shape": "dot"
+    },
+    {
+      "id": "Jonathan Chernoff",
+      "label": "Jonathan Chernoff",
+      "title": "Jonathan Chernoff",
+      "color": "#95c0f9",
+      "shape": "dot"
+    },
+    {
+      "id": "Sangeeta Bardhan Cook",
+      "label": "Sangeeta Bardhan Cook",
+      "title": "Sangeeta Bardhan Cook",
+      "color": "#95c0f9",
+      "shape": "dot"
+    },
+    {
+      "id": "Jarred Matchett",
+      "label": "Jarred Matchett",
+      "title": "Jarred Matchett",
+      "color": "#95c0f9",
+      "shape": "dot"
+    },
+    {
+      "id": "Glenn Rall",
+      "label": "Glenn Rall",
+      "title": "Glenn Rall",
+      "color": "#95c0f9",
+      "shape": "dot"
+    },
+    {
+      "id": "Anna Rodriguez",
+      "label": "Anna Rodriguez",
+      "title": "Anna Rodriguez",
+      "color": "#95c0f9",
+      "shape": "dot"
+    }
+  ],
+  "edges": [
+    {
+      "from": "10001",
+      "to": "FOX CHASE CANCER CENTER"
+    },
+    {
+      "from": "FOX CHASE CANCER CENTER",
+      "to": "Joel Helmke"
+    },
+    {
+      "from": "FOX CHASE CANCER CENTER",
+      "to": "James Helstrom"
+    },
+    {
+      "from": "FOX CHASE CANCER CENTER",
+      "to": "Jerome Maddox"
+    },
+    {
+      "from": "FOX CHASE CANCER CENTER",
+      "to": "Robert Uzzo"
+    },
+    {
+      "from": "FOX CHASE CANCER CENTER",
+      "to": "Jonathan Chernoff"
+    },
+    {
+      "from": "FOX CHASE CANCER CENTER",
+      "to": "Sangeeta Bardhan Cook"
+    },
+    {
+      "from": "FOX CHASE CANCER CENTER",
+      "to": "Jarred Matchett"
+    },
+    {
+      "from": "FOX CHASE CANCER CENTER",
+      "to": "Glenn Rall"
+    },
+    {
+      "from": "FOX CHASE CANCER CENTER",
+      "to": "Anna Rodriguez"
+    }
+  ]
+}

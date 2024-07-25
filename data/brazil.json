@@ -1,0 +1,913 @@
+{
+    "counter": 5,
+    "graph": {
+        "nodes": [
+            {
+                "id": "10001",
+                "x": 0,
+                "y": 0,
+                "fixed": {
+                    "x": true,
+                    "y": true
+                },
+                "label": "GSK",
+                "title": "GSK",
+                "color": "#fdfd00",
+                "size": 250,
+                "shape": "image",
+                "image": "https://www.mxp-webshop.de/media/image/20/82/24/GSK-Logo.png"
+            },
+            {
+                "id": "Renata Tortato Meneguetti",
+                "label": "Renata Tortato Meneguetti",
+                "title": "Renata Tortato Meneguetti",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "CASA HUNTER ASSOC BRASIL DOS PORTADDA DOENCA DE HUNTER E OUT DOE RARASBRAA|0006866774",
+                "label": "CASA HUNTER ASSOC BRASIL DOS PORTADDA DOENCA DE HUNTER E OUT DOE RARASBRAA|0006866774",
+                "title": "CASA HUNTER ASSOC BRASIL DOS PORTADDA DOENCA DE HUNTER E OUT DOE RARASBRAA|0006866774",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "GESTOS SOROPOSITIVIDADE COMUNICACAO",
+                "label": "GESTOS SOROPOSITIVIDADE COMUNICACAO",
+                "title": "GESTOS SOROPOSITIVIDADE COMUNICACAO",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "MR Servicos de Cirurgia OncologicaLTDA",
+                "label": "MR Servicos de Cirurgia OncologicaLTDA",
+                "title": "MR Servicos de Cirurgia OncologicaLTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "Pan American League of AssociationsRheumatology",
+                "label": "Pan American League of AssociationsRheumatology",
+                "title": "Pan American League of AssociationsRheumatology",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "ABM ASSOCIACAO BRASILEIRA DE COMBATMENINGITE",
+                "label": "ABM ASSOCIACAO BRASILEIRA DE COMBATMENINGITE",
+                "title": "ABM ASSOCIACAO BRASILEIRA DE COMBATMENINGITE",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "ASSOCIACAO DAS PROSTITUTAS DA PARAIAPROS PB",
+                "label": "ASSOCIACAO DAS PROSTITUTAS DA PARAIAPROS PB",
+                "title": "ASSOCIACAO DAS PROSTITUTAS DA PARAIAPROS PB",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "ASSOCIACAO PARANAENSE DE PEDIATRIABRAA|0000096153",
+                "label": "ASSOCIACAO PARANAENSE DE PEDIATRIABRAA|0000096153",
+                "title": "ASSOCIACAO PARANAENSE DE PEDIATRIABRAA|0000096153",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "CDRA CIENTIFICO LTDA",
+                "label": "CDRA CIENTIFICO LTDA",
+                "title": "CDRA CIENTIFICO LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "CLINICA DE UROGINECOLOGIA SS LTDA",
+                "label": "CLINICA DE UROGINECOLOGIA SS LTDA",
+                "title": "CLINICA DE UROGINECOLOGIA SS LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "CMR MEDICAL RESEARCH LTDABRAA|0000094788",
+                "label": "CMR MEDICAL RESEARCH LTDABRAA|0000094788",
+                "title": "CMR MEDICAL RESEARCH LTDABRAA|0000094788",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "Clinica de Imunologia Alergia ePneumologia LTDA",
+                "label": "Clinica de Imunologia Alergia ePneumologia LTDA",
+                "title": "Clinica de Imunologia Alergia ePneumologia LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "FCAM SERVICOS MEDICOS SS LTDA",
+                "label": "FCAM SERVICOS MEDICOS SS LTDA",
+                "title": "FCAM SERVICOS MEDICOS SS LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "PRO SAUDE CLINICA MEDICA SS",
+                "label": "PRO SAUDE CLINICA MEDICA SS",
+                "title": "PRO SAUDE CLINICA MEDICA SS",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "CPP CENTRO DE PNEUMOLOGIA E PEDIATR",
+                "label": "CPP CENTRO DE PNEUMOLOGIA E PEDIATR",
+                "title": "CPP CENTRO DE PNEUMOLOGIA E PEDIATR",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "MAURICIO TERCI DE ABREU LTDA",
+                "label": "MAURICIO TERCI DE ABREU LTDA",
+                "title": "MAURICIO TERCI DE ABREU LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "INSTITUTO GOIANO DE ASSISTENCIA FARTICA E AUDITORIA MEDICA - IGAFAM",
+                "label": "INSTITUTO GOIANO DE ASSISTENCIA FARTICA E AUDITORIA MEDICA - IGAFAM",
+                "title": "INSTITUTO GOIANO DE ASSISTENCIA FARTICA E AUDITORIA MEDICA - IGAFAM",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "JVV DERMATOLOGIA LTDA",
+                "label": "JVV DERMATOLOGIA LTDA",
+                "title": "JVV DERMATOLOGIA LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "MORAES DE SOUZA SERVICOS MEDICOS SS",
+                "label": "MORAES DE SOUZA SERVICOS MEDICOS SS",
+                "title": "MORAES DE SOUZA SERVICOS MEDICOS SS",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "Assoc CE Portadores de Doencas Rara",
+                "label": "Assoc CE Portadores de Doencas Rara",
+                "title": "Assoc CE Portadores de Doencas Rara",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "FEDERACAO BRAS DAS ASSOCGINECOLOGIA E OBSTETRICIA FEBRASGOBRAA|0000256157",
+                "label": "FEDERACAO BRAS DAS ASSOCGINECOLOGIA E OBSTETRICIA FEBRASGOBRAA|0000256157",
+                "title": "FEDERACAO BRAS DAS ASSOCGINECOLOGIA E OBSTETRICIA FEBRASGOBRAA|0000256157",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "Grupo de Pacientes ArtriticosDe Porto Alegre",
+                "label": "Grupo de Pacientes ArtriticosDe Porto Alegre",
+                "title": "Grupo de Pacientes ArtriticosDe Porto Alegre",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "ASBAG ASSOSCIACAO BRASILEIRA DE ASMGRAVE",
+                "label": "ASBAG ASSOSCIACAO BRASILEIRA DE ASMGRAVE",
+                "title": "ASBAG ASSOSCIACAO BRASILEIRA DE ASMGRAVE",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "CENTRO DE DOENCAS PULMONARES SERVICMEDICOS LTDA",
+                "label": "CENTRO DE DOENCAS PULMONARES SERVICMEDICOS LTDA",
+                "title": "CENTRO DE DOENCAS PULMONARES SERVICMEDICOS LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "Hemi Servicos Medicos SS LTDA",
+                "label": "Hemi Servicos Medicos SS LTDA",
+                "title": "Hemi Servicos Medicos SS LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "SOCIEDADE RIOGRANDENSE DE INFECTOLBRAA|0000355300",
+                "label": "SOCIEDADE RIOGRANDENSE DE INFECTOLBRAA|0000355300",
+                "title": "SOCIEDADE RIOGRANDENSE DE INFECTOLBRAA|0000355300",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "ZIBETTI SERVICOS MEDICOS LTDA",
+                "label": "ZIBETTI SERVICOS MEDICOS LTDA",
+                "title": "ZIBETTI SERVICOS MEDICOS LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "CLINICA PNEUMOLOGICA DR MARLI LOPESEIRELI",
+                "label": "CLINICA PNEUMOLOGICA DR MARLI LOPESEIRELI",
+                "title": "CLINICA PNEUMOLOGICA DR MARLI LOPESEIRELI",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "CORPO CLIN DA SANTA CASADE URUGUAIANABRAA|0004500088",
+                "label": "CORPO CLIN DA SANTA CASADE URUGUAIANABRAA|0004500088",
+                "title": "CORPO CLIN DA SANTA CASADE URUGUAIANABRAA|0004500088",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "P BERTINI SERVICOS MEDICOS LTDA",
+                "label": "P BERTINI SERVICOS MEDICOS LTDA",
+                "title": "P BERTINI SERVICOS MEDICOS LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "ASS BRASILEIRA DE OTORRE CIRURGIA CERVICO FACIAL ABORL CCFBRAA|0000006006",
+                "label": "ASS BRASILEIRA DE OTORRE CIRURGIA CERVICO FACIAL ABORL CCFBRAA|0000006006",
+                "title": "ASS BRASILEIRA DE OTORRE CIRURGIA CERVICO FACIAL ABORL CCFBRAA|0000006006",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "ASSOCIACAO COMBATE AO CANCER DE OVA",
+                "label": "ASSOCIACAO COMBATE AO CANCER DE OVA",
+                "title": "ASSOCIACAO COMBATE AO CANCER DE OVA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "Respivida Servicos Medicos LTDA",
+                "label": "Respivida Servicos Medicos LTDA",
+                "title": "Respivida Servicos Medicos LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "HORUS SERVICOS MEDICOS SS LTDA",
+                "label": "HORUS SERVICOS MEDICOS SS LTDA",
+                "title": "HORUS SERVICOS MEDICOS SS LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "CLIAR CLINICA DE DOENCASDO APARAELHO RESPIRATORIO SS",
+                "label": "CLIAR CLINICA DE DOENCASDO APARAELHO RESPIRATORIO SS",
+                "title": "CLIAR CLINICA DE DOENCASDO APARAELHO RESPIRATORIO SS",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "CLINICA DE PNEUMOLOGIA S S CLAREBRAA|0000877727",
+                "label": "CLINICA DE PNEUMOLOGIA S S CLAREBRAA|0000877727",
+                "title": "CLINICA DE PNEUMOLOGIA S S CLAREBRAA|0000877727",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "SERVICOS MEDICOS FONTOURA SS LTDA",
+                "label": "SERVICOS MEDICOS FONTOURA SS LTDA",
+                "title": "SERVICOS MEDICOS FONTOURA SS LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "CLINICA DE PNEUMOLOGIA CIRO BOTTO L",
+                "label": "CLINICA DE PNEUMOLOGIA CIRO BOTTO L",
+                "title": "CLINICA DE PNEUMOLOGIA CIRO BOTTO L",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "SPR SOCIEDADE PARANAENSE DEREUMATOLOGIABRAA|0001131189",
+                "label": "SPR SOCIEDADE PARANAENSE DEREUMATOLOGIABRAA|0001131189",
+                "title": "SPR SOCIEDADE PARANAENSE DEREUMATOLOGIABRAA|0001131189",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "Associacao Catarinense Doencas Rara",
+                "label": "Associacao Catarinense Doencas Rara",
+                "title": "Associacao Catarinense Doencas Rara",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "GAMA E COUTINHO SERVICOS MEDICOS LT",
+                "label": "GAMA E COUTINHO SERVICOS MEDICOS LT",
+                "title": "GAMA E COUTINHO SERVICOS MEDICOS LT",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "MCV SERVICOS MEDICOS LTDA",
+                "label": "MCV SERVICOS MEDICOS LTDA",
+                "title": "MCV SERVICOS MEDICOS LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "SOCIEDADE DE NEFROPEDIATRIA EREUMATOLOGIA ACAYABA LTDA",
+                "label": "SOCIEDADE DE NEFROPEDIATRIA EREUMATOLOGIA ACAYABA LTDA",
+                "title": "SOCIEDADE DE NEFROPEDIATRIA EREUMATOLOGIA ACAYABA LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "CLINICA DE ONCOLOGIA ASSOCIADA LTDA",
+                "label": "CLINICA DE ONCOLOGIA ASSOCIADA LTDA",
+                "title": "CLINICA DE ONCOLOGIA ASSOCIADA LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "FORUM DAS ONG AIDS DO ESTADODE SAO PAULO",
+                "label": "FORUM DAS ONG AIDS DO ESTADODE SAO PAULO",
+                "title": "FORUM DAS ONG AIDS DO ESTADODE SAO PAULO",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "INSTITUTO DE MEDICINA AVANCADADE RIBEIRAO PRETO SS",
+                "label": "INSTITUTO DE MEDICINA AVANCADADE RIBEIRAO PRETO SS",
+                "title": "INSTITUTO DE MEDICINA AVANCADADE RIBEIRAO PRETO SS",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "CLINICA UROLOGICA BLUMENAU SS LTDABRAA|0005486313",
+                "label": "CLINICA UROLOGICA BLUMENAU SS LTDABRAA|0005486313",
+                "title": "CLINICA UROLOGICA BLUMENAU SS LTDABRAA|0005486313",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "Clinica Medica Gobbato Ltda",
+                "label": "Clinica Medica Gobbato Ltda",
+                "title": "Clinica Medica Gobbato Ltda",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "GRUPO PARA VALORIZACAO INTEGRACAOE DIGNIFICACAO DO DOENTE DE AIDS",
+                "label": "GRUPO PARA VALORIZACAO INTEGRACAOE DIGNIFICACAO DO DOENTE DE AIDS",
+                "title": "GRUPO PARA VALORIZACAO INTEGRACAOE DIGNIFICACAO DO DOENTE DE AIDS",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "INSTITUTO ONCOGUIA",
+                "label": "INSTITUTO ONCOGUIA",
+                "title": "INSTITUTO ONCOGUIA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "PNEUMO SERVICOS E ASSISTENCIA MEDICSS LTDA",
+                "label": "PNEUMO SERVICOS E ASSISTENCIA MEDICSS LTDA",
+                "title": "PNEUMO SERVICOS E ASSISTENCIA MEDICSS LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "RESPIRAR SAUDE CLINICA MEDICA LTDA",
+                "label": "RESPIRAR SAUDE CLINICA MEDICA LTDA",
+                "title": "RESPIRAR SAUDE CLINICA MEDICA LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "Atopicos Brasil",
+                "label": "Atopicos Brasil",
+                "title": "Atopicos Brasil",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "CENTRO DE EST EM REUMAT DE SPCERSPBRAA|0003180945",
+                "label": "CENTRO DE EST EM REUMAT DE SPCERSPBRAA|0003180945",
+                "title": "CENTRO DE EST EM REUMAT DE SPCERSPBRAA|0003180945",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "ECOMED CLINICA MEDICA LTDA",
+                "label": "ECOMED CLINICA MEDICA LTDA",
+                "title": "ECOMED CLINICA MEDICA LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "MC CONSULTORIOS LTDA",
+                "label": "MC CONSULTORIOS LTDA",
+                "title": "MC CONSULTORIOS LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "PAULO MARCIO CONDESSA PITREZ LTDA",
+                "label": "PAULO MARCIO CONDESSA PITREZ LTDA",
+                "title": "PAULO MARCIO CONDESSA PITREZ LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "SOC DE REUMATOLOGIA DE PEBRAA|0001761081",
+                "label": "SOC DE REUMATOLOGIA DE PEBRAA|0001761081",
+                "title": "SOC DE REUMATOLOGIA DE PEBRAA|0001761081",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "AIRCLINIC PNEUMOLOGIAE ODONTO SS LTDABRAA|0003108896",
+                "label": "AIRCLINIC PNEUMOLOGIAE ODONTO SS LTDABRAA|0003108896",
+                "title": "AIRCLINIC PNEUMOLOGIAE ODONTO SS LTDABRAA|0003108896",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "ASSOCIACAO CRONICOS DO DIA A DIAACDDBRAA|0006866772",
+                "label": "ASSOCIACAO CRONICOS DO DIA A DIAACDDBRAA|0006866772",
+                "title": "ASSOCIACAO CRONICOS DO DIA A DIAACDDBRAA|0006866772",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "CENTRO DE ASMA E ALERGIA ANGELO RIZLTDA",
+                "label": "CENTRO DE ASMA E ALERGIA ANGELO RIZLTDA",
+                "title": "CENTRO DE ASMA E ALERGIA ANGELO RIZLTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "PROTEAR ASSISTENCIA RESPIRATORIA SS",
+                "label": "PROTEAR ASSISTENCIA RESPIRATORIA SS",
+                "title": "PROTEAR ASSISTENCIA RESPIRATORIA SS",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "R&M Educação em Saúde EPP",
+                "label": "R&M Educação em Saúde EPP",
+                "title": "R&M Educação em Saúde EPP",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "SEI SERVICOS ESPECIALIZADOSEM INFECTOLO LTDABRAA|0000371176",
+                "label": "SEI SERVICOS ESPECIALIZADOSEM INFECTOLO LTDABRAA|0000371176",
+                "title": "SEI SERVICOS ESPECIALIZADOSEM INFECTOLO LTDABRAA|0000371176",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "TGVA Servicos Medicos LTDA",
+                "label": "TGVA Servicos Medicos LTDA",
+                "title": "TGVA Servicos Medicos LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "BERTOLLO & FERREIRA SAUDE LTDABRAA|0006853403",
+                "label": "BERTOLLO & FERREIRA SAUDE LTDABRAA|0006853403",
+                "title": "BERTOLLO & FERREIRA SAUDE LTDABRAA|0006853403",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "JAROVSKY MEDICINA LTDABRAA|0006864058",
+                "label": "JAROVSKY MEDICINA LTDABRAA|0006864058",
+                "title": "JAROVSKY MEDICINA LTDABRAA|0006864058",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "PULSAN SERVICOS DE SAUDE LTDABRAA|0002405555",
+                "label": "PULSAN SERVICOS DE SAUDE LTDABRAA|0002405555",
+                "title": "PULSAN SERVICOS DE SAUDE LTDABRAA|0002405555",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "RUSSO E CIA SERVICOS MEDICOS LTDA",
+                "label": "RUSSO E CIA SERVICOS MEDICOS LTDA",
+                "title": "RUSSO E CIA SERVICOS MEDICOS LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "SUHARA E BORTOLOTI LTDA",
+                "label": "SUHARA E BORTOLOTI LTDA",
+                "title": "SUHARA E BORTOLOTI LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "CB SERVICOS MEDICOS SS LTDA",
+                "label": "CB SERVICOS MEDICOS SS LTDA",
+                "title": "CB SERVICOS MEDICOS SS LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "GARCE GRUPO DE APOIO AOS PACIENTESREUMATICOS DO CEARABRAA|0002666459",
+                "label": "GARCE GRUPO DE APOIO AOS PACIENTESREUMATICOS DO CEARABRAA|0002666459",
+                "title": "GARCE GRUPO DE APOIO AOS PACIENTESREUMATICOS DO CEARABRAA|0002666459",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "Sergio Cimerman Infectologia SS Ltd",
+                "label": "Sergio Cimerman Infectologia SS Ltd",
+                "title": "Sergio Cimerman Infectologia SS Ltd",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            },
+            {
+                "id": "MARTIN STUART SMITH CONSULTORIAEMPRESARIAL LTDA",
+                "label": "MARTIN STUART SMITH CONSULTORIAEMPRESARIAL LTDA",
+                "title": "MARTIN STUART SMITH CONSULTORIAEMPRESARIAL LTDA",
+                "country": "BRAZIL",
+                "color": "#fb7e81",
+                "shape": "dot"
+            }
+        ],
+        "edges": [
+            {
+                "from": "10001",
+                "to": "Renata Tortato Meneguetti"
+            },
+            {
+                "from": "10001",
+                "to": "GESTOS SOROPOSITIVIDADE COMUNICACAO"
+            },
+            {
+                "from": "10001",
+                "to": "Pan American League of AssociationsRheumatology"
+            },
+            {
+                "from": "10001",
+                "to": "CASA HUNTER ASSOC BRASIL DOS PORTADDA DOENCA DE HUNTER E OUT DOE RARASBRAA|0006866774"
+            },
+            {
+                "from": "10001",
+                "to": "MR Servicos de Cirurgia OncologicaLTDA"
+            },
+            {
+                "from": "10001",
+                "to": "ASSOCIACAO PARANAENSE DE PEDIATRIABRAA|0000096153"
+            },
+            {
+                "from": "10001",
+                "to": "ASSOCIACAO DAS PROSTITUTAS DA PARAIAPROS PB"
+            },
+            {
+                "from": "10001",
+                "to": "Clinica de Imunologia Alergia ePneumologia LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "CDRA CIENTIFICO LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "CMR MEDICAL RESEARCH LTDABRAA|0000094788"
+            },
+            {
+                "from": "10001",
+                "to": "CLINICA DE UROGINECOLOGIA SS LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "PRO SAUDE CLINICA MEDICA SS"
+            },
+            {
+                "from": "10001",
+                "to": "ABM ASSOCIACAO BRASILEIRA DE COMBATMENINGITE"
+            },
+            {
+                "from": "10001",
+                "to": "FCAM SERVICOS MEDICOS SS LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "CPP CENTRO DE PNEUMOLOGIA E PEDIATR"
+            },
+            {
+                "from": "10001",
+                "to": "MAURICIO TERCI DE ABREU LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "JVV DERMATOLOGIA LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "MORAES DE SOUZA SERVICOS MEDICOS SS"
+            },
+            {
+                "from": "10001",
+                "to": "INSTITUTO GOIANO DE ASSISTENCIA FARTICA E AUDITORIA MEDICA - IGAFAM"
+            },
+            {
+                "from": "10001",
+                "to": "Grupo de Pacientes ArtriticosDe Porto Alegre"
+            },
+            {
+                "from": "10001",
+                "to": "Assoc CE Portadores de Doencas Rara"
+            },
+            {
+                "from": "10001",
+                "to": "FEDERACAO BRAS DAS ASSOCGINECOLOGIA E OBSTETRICIA FEBRASGOBRAA|0000256157"
+            },
+            {
+                "from": "10001",
+                "to": "Hemi Servicos Medicos SS LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "ZIBETTI SERVICOS MEDICOS LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "SOCIEDADE RIOGRANDENSE DE INFECTOLBRAA|0000355300"
+            },
+            {
+                "from": "10001",
+                "to": "ASBAG ASSOSCIACAO BRASILEIRA DE ASMGRAVE"
+            },
+            {
+                "from": "10001",
+                "to": "CENTRO DE DOENCAS PULMONARES SERVICMEDICOS LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "CLINICA PNEUMOLOGICA DR MARLI LOPESEIRELI"
+            },
+            {
+                "from": "10001",
+                "to": "CORPO CLIN DA SANTA CASADE URUGUAIANABRAA|0004500088"
+            },
+            {
+                "from": "10001",
+                "to": "P BERTINI SERVICOS MEDICOS LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "ASSOCIACAO COMBATE AO CANCER DE OVA"
+            },
+            {
+                "from": "10001",
+                "to": "ASS BRASILEIRA DE OTORRE CIRURGIA CERVICO FACIAL ABORL CCFBRAA|0000006006"
+            },
+            {
+                "from": "10001",
+                "to": "Respivida Servicos Medicos LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "HORUS SERVICOS MEDICOS SS LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "CLINICA DE PNEUMOLOGIA S S CLAREBRAA|0000877727"
+            },
+            {
+                "from": "10001",
+                "to": "SERVICOS MEDICOS FONTOURA SS LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "CLIAR CLINICA DE DOENCASDO APARAELHO RESPIRATORIO SS"
+            },
+            {
+                "from": "10001",
+                "to": "CLINICA DE PNEUMOLOGIA CIRO BOTTO L"
+            },
+            {
+                "from": "10001",
+                "to": "SPR SOCIEDADE PARANAENSE DEREUMATOLOGIABRAA|0001131189"
+            },
+            {
+                "from": "10001",
+                "to": "MCV SERVICOS MEDICOS LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "GAMA E COUTINHO SERVICOS MEDICOS LT"
+            },
+            {
+                "from": "10001",
+                "to": "SOCIEDADE DE NEFROPEDIATRIA EREUMATOLOGIA ACAYABA LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "Associacao Catarinense Doencas Rara"
+            },
+            {
+                "from": "10001",
+                "to": "FORUM DAS ONG AIDS DO ESTADODE SAO PAULO"
+            },
+            {
+                "from": "10001",
+                "to": "INSTITUTO DE MEDICINA AVANCADADE RIBEIRAO PRETO SS"
+            },
+            {
+                "from": "10001",
+                "to": "CLINICA DE ONCOLOGIA ASSOCIADA LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "PNEUMO SERVICOS E ASSISTENCIA MEDICSS LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "GRUPO PARA VALORIZACAO INTEGRACAOE DIGNIFICACAO DO DOENTE DE AIDS"
+            },
+            {
+                "from": "10001",
+                "to": "INSTITUTO ONCOGUIA"
+            },
+            {
+                "from": "10001",
+                "to": "RESPIRAR SAUDE CLINICA MEDICA LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "CLINICA UROLOGICA BLUMENAU SS LTDABRAA|0005486313"
+            },
+            {
+                "from": "10001",
+                "to": "Clinica Medica Gobbato Ltda"
+            },
+            {
+                "from": "10001",
+                "to": "CENTRO DE EST EM REUMAT DE SPCERSPBRAA|0003180945"
+            },
+            {
+                "from": "10001",
+                "to": "Atopicos Brasil"
+            },
+            {
+                "from": "10001",
+                "to": "SOC DE REUMATOLOGIA DE PEBRAA|0001761081"
+            },
+            {
+                "from": "10001",
+                "to": "PAULO MARCIO CONDESSA PITREZ LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "ECOMED CLINICA MEDICA LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "MC CONSULTORIOS LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "SEI SERVICOS ESPECIALIZADOSEM INFECTOLO LTDABRAA|0000371176"
+            },
+            {
+                "from": "10001",
+                "to": "ASSOCIACAO CRONICOS DO DIA A DIAACDDBRAA|0006866772"
+            },
+            {
+                "from": "10001",
+                "to": "R&M Educação em Saúde EPP"
+            },
+            {
+                "from": "10001",
+                "to": "AIRCLINIC PNEUMOLOGIAE ODONTO SS LTDABRAA|0003108896"
+            },
+            {
+                "from": "10001",
+                "to": "PROTEAR ASSISTENCIA RESPIRATORIA SS"
+            },
+            {
+                "from": "10001",
+                "to": "CENTRO DE ASMA E ALERGIA ANGELO RIZLTDA"
+            },
+            {
+                "from": "10001",
+                "to": "TGVA Servicos Medicos LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "RUSSO E CIA SERVICOS MEDICOS LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "SUHARA E BORTOLOTI LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "PULSAN SERVICOS DE SAUDE LTDABRAA|0002405555"
+            },
+            {
+                "from": "10001",
+                "to": "BERTOLLO & FERREIRA SAUDE LTDABRAA|0006853403"
+            },
+            {
+                "from": "10001",
+                "to": "JAROVSKY MEDICINA LTDABRAA|0006864058"
+            },
+            {
+                "from": "10001",
+                "to": "CB SERVICOS MEDICOS SS LTDA"
+            },
+            {
+                "from": "10001",
+                "to": "Sergio Cimerman Infectologia SS Ltd"
+            },
+            {
+                "from": "10001",
+                "to": "GARCE GRUPO DE APOIO AOS PACIENTESREUMATICOS DO CEARABRAA|0002666459"
+            },
+            {
+                "from": "10001",
+                "to": "MARTIN STUART SMITH CONSULTORIAEMPRESARIAL LTDA"
+            }
+        ]
+    },
+    "events": {}
+}

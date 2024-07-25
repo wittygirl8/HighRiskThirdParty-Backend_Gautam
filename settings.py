@@ -1,0 +1,9 @@
+import os
+
+MSSQL_SERVER = os.environ.get('MSSQL_SERVER')
+MSSQL_DATABASE = os.environ.get('MSSQL_DATABASE')
+MSSQL_USERNAME = os.environ.get('CLIENTID')
+MSSQL_PASSWORD = os.environ.get('CLIENT_SECRET')
+JWT_SECRET_KEY = os.environ.get("JWT_SECRET_KEY")
+JWT_BLACKLIST_ENABLED = os.environ.get("JWT_BLACKLIST_ENABLED")
+JWT_BLACKLIST_TOKEN_CHECKS = os.environ.get("JWT_BLACKLIST_TOKEN_CHECKS")

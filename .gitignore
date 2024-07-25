@@ -1,0 +1,8 @@
+__pycache__/
+.idea/
+*.iml
+*.pyc
+venv/
+*.ini
+*.log
+.env

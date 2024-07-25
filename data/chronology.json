@@ -1,0 +1,536 @@
+[
+  {
+    "tag": "Robert Uzzo : External News Event",
+    "category": "External News Event",
+    "date": "2023-11-30",
+    "description": "https://news.google.com/articles/CBMijwFodHRwczovL3d3dy5mb3hjaGFzZS5vcmcvbmV3cy8yMDIzLTExLTMwLWZveC1jaGFzZS1jZW8tZHItcm9iZXJ0LXV6em8tcmVjZWl2ZXMtc29jaWV0eS1vZi11cm9sb2dpYy1vbmNvbG9neXMtam9zZXBoLWEtc21pdGgtanItbWVudG9yc2hpcC1hd2FyZNIBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": "Robert Uzzo : External News Event",
+    "category": "External News Event",
+    "date": "2023-08-04",
+    "description": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LnJlbmFsYW5kdXJvbG9neW5ld3MuY29tL2NvbW1lbnRhcnkvZG8tbm90LW92ZXJlc3RpbWF0ZS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1pbi1jbGluaWNhbC1tZWRpY2luZXlldC_SAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": "Robert Uzzo : External News Event",
+    "category": "External News Event",
+    "date": "2024-03-28",
+    "description": "https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9oZWFsdGgvZm94LWNoYXNlLWNhbmNlci1jZW50ZXItdm9vcmhlZXMtb2ZmaWNlLTIwMjQwMzI4Lmh0bWzSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": "Robert Uzzo : External News Event",
+    "category": "External News Event",
+    "date": "2024-04-15",
+    "description": "https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3LmZveGNoYXNlLm9yZy9uZXdzLzIwMjQtMDQtMTUtZm94LWNoYXNlLWNhbmNlci1jZW50ZXItd2VsY29tZXMtcGF0aWVudHMtdG8tbmV3bHktZXhwYW5kZWQtYnVja2luZ2hhbS1zaXRl0gEA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": "Robert Uzzo : External News Event",
+    "category": "External News Event",
+    "date": "2023-10-04",
+    "description": "https://news.google.com/articles/CBMi8gFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2VzdGVlbWVkLWxlYWRlci1yb2JlcnQtcGVtYmVydG9uLWpvaW5zLWZvcmNlcy13aXRoLWNvLWZvdW5kZXJzLWFudGhvbnktdXp6by1hbmQtamltLWdyZWdvcnktdG8tYWNjZWxlcmF0ZS1zZXJ2aWNlLWluc2lnaHRzLXBhdGgtdG8tZW5hYmxlLWRpZ2l0YWwtdHJhbnNmb3JtYXRpb24tYWNyb3NzLWRpdmVyc2UtaW5kdXN0cmllcy0zMDE5NDYxMDMuaHRtbNIBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": "Robert Uzzo : External News Event",
+    "category": "External News Event",
+    "date": "2023-06-05",
+    "description": "https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9oZWFsdGgvZm94LWNoYXNlLWNhbmNlci1jZW50ZXItY2VvLW5ldy1kZXZlbG9wbWVudHMtMjAyMzA2MDUuaHRtbNIBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": "Robert Uzzo : External News Event",
+    "category": "External News Event",
+    "date": "2023-07-13",
+    "description": "https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LmxhdzM2MC5jb20vZW1wbG95bWVudC1hdXRob3JpdHkvYXJ0aWNsZXMvMTY5OTM5Ny90ZW1wbGUtaGVhbHRoLWhpdC13aXRoLXJldGFsaWF0aW9uLXN1aXQtYnktZXgtdGVjaC1kaXJlY3RvctIBQGh0dHBzOi8vd3d3LmxhdzM2MC5jb20vZW1wbG95bWVudC1hdXRob3JpdHkvYW1wL2FydGljbGVzLzE2OTkzOTc?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": "Robert Uzzo : External News Event",
+    "category": "External News Event",
+    "date": "2023-05-18",
+    "description": "https://news.google.com/articles/CBMiPGh0dHBzOi8vbm9ydGhlYXN0dGltZXMuY29tLzIwMjMvMDUvMTgvZnVuZGluZy1mb3ItZm94LWNoYXNlL9IBQGh0dHBzOi8vbm9ydGhlYXN0dGltZXMuY29tLzIwMjMvMDUvMTgvZnVuZGluZy1mb3ItZm94LWNoYXNlLz9hbXA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": "Robert Uzzo : External News Event",
+    "category": "External News Event",
+    "date": "2024-01-10",
+    "description": "https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3LmZveGNoYXNlLm9yZy9uZXdzLzIwMjQtMDEtMTAtbG9jYWwtY2FyLWRlYWxlci1oZWxwcy1raWNrLWNhbmNlci10by10aGUtY3VyYtIBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": "Robert Uzzo : External News Event",
+    "category": "External News Event",
+    "date": "2023-04-27",
+    "description": "https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LmZveGNoYXNlLm9yZy9uZXdzLzIwMjMtMDQtMjctdGVtcGxlLWhlYWx0aC1sYXVuY2hlcy1uZXctZm94LWNoYXNlLXRlbXBsZS11cm9sb2dpYy1pbnN0aXR1dGXSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": "Robert Uzzo : External News Event",
+    "category": "External News Event",
+    "date": "2023-04-28",
+    "description": "https://news.google.com/articles/CBMingFodHRwczovL3d3dy5mb3hjaGFzZS5vcmcvbmV3cy8yMDIzLTA0LTI4LWZveC1jaGFzZS1jYW5jZXItY2VudGVyLWFuZC10ZW1wbGUtaGVhbHRoLXByZXNlbnQtcmVzZWFyY2gtYXQtdGhlLWFtZXJpY2FuLXVyb2xvZ2ljYWwtYXNzb2NpYXRpb24tMjAyMy1hbm51YWwtbWVldGluZ9IBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": "Robert Uzzo : External News Event",
+    "category": "External News Event",
+    "date": "2023-02-07",
+    "description": "https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LmZveGNoYXNlLm9yZy9uZXdzLzIwMjMtMDItMDctZm94LWNoYXNlLWNhbmNlci1jZW50ZXItYW5ub3VuY2VzLWZvcm1hdGlvbi1vZi1uZXctZGVwYXJ0bWVudC1vZi11cm9sb2d50gEA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": "Robert Uzzo : External News Event",
+    "category": "External News Event",
+    "date": "2023-11-09",
+    "description": "https://news.google.com/articles/CBMipQFodHRwczovL3d3dy5mb3hjaGFzZS5vcmcvbmV3cy8yMDIzLTExLTA5LWZveC1jaGFzZS1jYW5jZXItY2VudGVycy1kci1hbGV4YW5kZXIta3V0aWtvdi10by1yZWNlaXZlLWFuZHJldy1jLW5vdmljay1hd2FyZC1hdC0yMDIzLWludGVybmF0aW9uYWwta2lkbmV5LWNhbmNlci1zeW1wb3NpdW3SAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": "Robert Uzzo : External News Event",
+    "category": "External News Event",
+    "date": "2023-04-14",
+    "description": "https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LmZveGNoYXNlLm9yZy9uZXdzLzIwMjMtMDQtMTQtZm94LWNoYXNlLWNhbmNlci1lbnRlci1oYXMtc2Vjb25kLWhpZ2hlc3QtY2FuY2VyLXN1cmdlcnktdm9sdW1lLWluLXBlbm5zeWx2YW5pYdIBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": "Robert Uzzo : External News Event",
+    "category": "External News Event",
+    "date": "2023-01-18",
+    "description": "https://news.google.com/articles/CBMipAFodHRwczovL3d3dy5mb3hjaGFzZS5vcmcvbmV3cy8yMDIzLTAxLTE4LWZveC1jaGFzZS1jYW5jZXItY2VudGVycy1qb2VsLWhlbG1rZS1uYW1lZC12aWNlLWNoYWlyLW9mLXRoZS1ib2FyZC1vZi1kaXJlY3RvcnMtb2YtdGhlLWFsbGlhbmNlLW9mLWRlZGljYXRlZC1jYW5jZXItY2VudGVyc9IBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Joel Helmke : External News Event",
+    "category": "External News Event",
+    "date": "2023-01-18",
+    "description": "https://news.google.com/articles/CBMipAFodHRwczovL3d3dy5mb3hjaGFzZS5vcmcvbmV3cy8yMDIzLTAxLTE4LWZveC1jaGFzZS1jYW5jZXItY2VudGVycy1qb2VsLWhlbG1rZS1uYW1lZC12aWNlLWNoYWlyLW9mLXRoZS1ib2FyZC1vZi1kaXJlY3RvcnMtb2YtdGhlLWFsbGlhbmNlLW9mLWRlZGljYXRlZC1jYW5jZXItY2VudGVyc9IBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Joel Helmke : External News Event",
+    "category": "External News Event",
+    "date": "2024-01-21",
+    "description": "https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9tYWRpc29uL25hbWUvam9hbi1ncm9zc2Utb2JpdHVhcnk_aWQ9NTQxNjI2MDDSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Joel Helmke : External News Event",
+    "category": "External News Event",
+    "date": "2023-02-24",
+    "description": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LnRlbGNvdGl0YW5zLmNvbS9kZXV0c2NoZS10ZWxla29td2F0Y2gvdGNhcGl0YWwtdG8tc3VwZXJjaGFyZ2UtZHRzLXN0cmF0ZWdpYy1pbnZlc3RtZW50cy82MjUyLmFydGljbGXSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Joel Helmke : External News Event",
+    "category": "External News Event",
+    "date": "2023-04-25",
+    "description": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vd3d3Lmd1bmRlcnNvbmZoLmNvbS9vYml0dWFyaWVzL0RhbmllbC1KLVphbmRlcj9vYklkPTMwMDQ2NzXSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Joel Helmke : External News Event",
+    "category": "External News Event",
+    "date": "2023-06-04",
+    "description": "https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3LmxpbWFvaGlvLmNvbS9uZXdzLzIwMjMvMDYvMDQvZ3JhZHVhdGlvbnMtMjAyMy1rYWxpZGEtaGlnaC1zY2hvb2wv0gEA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Joel Helmke : External News Event",
+    "category": "External News Event",
+    "date": "2023-09-06",
+    "description": "https://news.google.com/articles/CBMipQFodHRwczovL3d3dy5mb3hjaGFzZS5vcmcvbmV3cy8yMDIzLTA5LTA2LWZveC1jaGFzZS1jaGllZi1udXJzaW5nLW9mZmljZXItYW5kLWNsaW5pY2FsLXByYWN0aWNlLWxlYWQtc2VsZWN0ZWQtYXMtZmluYWxpc3RzLWZvci0yMDIzLW5pZ2h0aW5nYWxlLWF3YXJkcy1vZi1wZW5uc3lsdmFuaWHSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jonathan Chernoff : External News Event",
+    "category": "External News Event",
+    "date": "2023-05-18",
+    "description": "https://news.google.com/articles/CBMiPGh0dHBzOi8vbm9ydGhlYXN0dGltZXMuY29tLzIwMjMvMDUvMTgvZnVuZGluZy1mb3ItZm94LWNoYXNlL9IBQGh0dHBzOi8vbm9ydGhlYXN0dGltZXMuY29tLzIwMjMvMDUvMTgvZnVuZGluZy1mb3ItZm94LWNoYXNlLz9hbXA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jonathan Chernoff : External News Event",
+    "category": "External News Event",
+    "date": "2023-07-13",
+    "description": "https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LmxhdzM2MC5jb20vZW1wbG95bWVudC1hdXRob3JpdHkvYXJ0aWNsZXMvMTY5OTM5Ny90ZW1wbGUtaGVhbHRoLWhpdC13aXRoLXJldGFsaWF0aW9uLXN1aXQtYnktZXgtdGVjaC1kaXJlY3RvctIBQGh0dHBzOi8vd3d3LmxhdzM2MC5jb20vZW1wbG95bWVudC1hdXRob3JpdHkvYW1wL2FydGljbGVzLzE2OTkzOTc?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jonathan Chernoff : External News Event",
+    "category": "External News Event",
+    "date": "2023-12-11",
+    "description": "https://news.google.com/articles/CBMiqQFodHRwczovL3d3dy5mb3hjaGFzZS5vcmcvbmV3cy8yMDIzLTEyLTExLWZveC1jaGFzZS1jYW5jZXItY2VudGVycy1lZG5hLWV0aS1jdWtpZXJtYW4tbmFtZWQtdG8tbmV3bHktY3JlYXRlZC1tYXJ2aW4tY29uY2V0dGEtZ3JlZW5iZXJnLWNoYWlyLWluLXBhbmNyZWF0aWMtY2FuY2VyLXJlc2VhcmNo0gEA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jonathan Chernoff : External News Event",
+    "category": "External News Event",
+    "date": "2023-05-11",
+    "description": "https://news.google.com/articles/CBMi0gFodHRwczovL3d3dy5mb3hjaGFzZS5vcmcvbmV3cy8yMDIzLTA1LTExLWZveC1jaGFzZS1jYW5jZXItY2VudGVyLXRlbXBsZS1oZWFsdGgtdGhhbmstc3RhdGUtcmVwcmVzZW50YXRpdmUta2V2aW4tYm95bGUtYW5kLXN0YXRlLXNlbmF0b3JzLWppbW15LWRpbGxvbi1hbmQtY2hyaXN0aW5lLXRhcnRhZ2xpb25lLWZvci1zZWN1cmluZy0xNS1taWxsaW9uLWluLWZ1bmRpbmfSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jonathan Chernoff : External News Event",
+    "category": "External News Event",
+    "date": "2023-02-15",
+    "description": "https://news.google.com/articles/CBMimAFodHRwczovL3d3dy5mb3hjaGFzZS5vcmcvbmV3cy8yMDIzLTAyLTE1LWZveC1jaGFzZS1yZXNlYXJjaGVycy1yZWNlaXZlLTEtbWlsbGlvbi1ncmFudC10by1kZXZlbG9wLXBsYXRmb3JtLXRoYXQtY291bGQtYXNzaXN0LWluLWRldmVsb3BtZW50LW9mLW5ldy1kcnVnc9IBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jonathan Chernoff : External News Event",
+    "category": "External News Event",
+    "date": "2023-02-22",
+    "description": "https://news.google.com/articles/CBMinAFodHRwczovL3d3dy5mb3hjaGFzZS5vcmcvbmV3cy8yMDIzLTAyLTIyLWZveC1jaGFzZS1jYW5jZXItY2VudGVycy1iaW9zYW1wbGUtcmVwb3NpdG9yeS1mYWNpbGl0eS1yZWNlaXZlcy1hY2NyZWRpdGF0aW9uLWZyb20tY29sbGVnZS1vZi1hbWVyaWNhbi1wYXRob2xvZ2lzdHPSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jonathan Chernoff : External News Event",
+    "category": "External News Event",
+    "date": "2023-01-11",
+    "description": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9vYml0dWFyaWVzL2plZmZyZXktcGV0ZXJzb24tb2JpdHVhcnktcGhpbGFkZWxwaGlhLWZveC1jaGFzZS1jYW5jZXItY2VudGVyLTIwMjMwMTExLmh0bWzSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jonathan Chernoff : External News Event",
+    "category": "External News Event",
+    "date": "2023-11-08",
+    "description": "https://news.google.com/articles/CBMiNGh0dHBzOi8vd3d3Lm1sYi5jb20vdmlkZW8vbWlrZS1jaGVybm9mZi1vbi1ndWFyZGlhbnPSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Sangeeta Bardhan Cook : External News Event",
+    "category": "External News Event",
+    "date": "2023-07-13",
+    "description": "https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LmxhdzM2MC5jb20vZW1wbG95bWVudC1hdXRob3JpdHkvYXJ0aWNsZXMvMTY5OTM5Ny90ZW1wbGUtaGVhbHRoLWhpdC13aXRoLXJldGFsaWF0aW9uLXN1aXQtYnktZXgtdGVjaC1kaXJlY3RvctIBQGh0dHBzOi8vd3d3LmxhdzM2MC5jb20vZW1wbG95bWVudC1hdXRob3JpdHkvYW1wL2FydGljbGVzLzE2OTkzOTc?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Sangeeta Bardhan Cook : External News Event",
+    "category": "External News Event",
+    "date": "2023-10-17",
+    "description": "https://news.google.com/articles/CBMikwFodHRwczovL3d3dy5mb3hjaGFzZS5vcmcvbmV3cy8yMDIzLTEwLTE3LWZveC1jaGFzZS1jYW5jZXItY2VudGVyLWludmVzdHMtaW4tZXhwYW5kaW5nLWFjY2Vzcy10by1saWZlc2F2aW5nLXJhZGlvcGhhcm1hY2V1dGljYWxzLWZvci1jYW5jZXItcGF0aWVudHPSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Sangeeta Bardhan Cook : External News Event",
+    "category": "External News Event",
+    "date": "2023-10-17",
+    "description": "https://news.google.com/articles/CBMigwFodHRwczovL2Jpb2J1enouaW8vZWlnaHQtbWlkLWF0bGFudGljLWNoaWVmLWlubm92YXRpb24tb2ZmaWNlcnMtcmVjb2duaXplZC1pbi1iZWNrZXItaGVhbHRoY2FyZXMtY2hpZWYtaW5ub3ZhdGlvbi1vZmZpY2Vycy10by1rbm93L9IBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " James Helstrom : External News Event",
+    "category": "External News Event",
+    "date": "2023-09-19",
+    "description": "https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnVyb2xvZ3l0aW1lcy5jb20vdmlldy9kci1yYW5kYWxsLWxlZS1vbi1jcmVhdGluZy1hLXZhbHVlLWJhc2VkLWNhcmUtZnJhbWV3b3Jr0gEA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " James Helstrom : External News Event",
+    "category": "External News Event",
+    "date": "2024-04-13",
+    "description": "https://news.google.com/articles/CBMiUGh0dHA6Ly93d3cubmV3c3BhcGVycy5jb20vYXJ0aWNsZS90aGUtZGlzcGF0Y2gtMDVhdWcxOTQ2LW1vbm1ycy1tYXJ0aGEvMjgwMDg3MDQv0gEA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " James Helstrom : External News Event",
+    "category": "External News Event",
+    "date": "2024-03-05",
+    "description": "https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LmlucXVpcmVyLmNvbS9oZWFsdGgvdGVtcGxlLWhlYWx0aC1jaGVzdG51dC1oaWxsLWhvc3BpdGFsLW5ldy1jZW8tMjAyNDAzMDUuaHRtbNIBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " James Helstrom : External News Event",
+    "category": "External News Event",
+    "date": "2024-03-05",
+    "description": "https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LmNoZXN0bnV0aGlsbGxvY2FsLmNvbS9zdG9yaWVzL2pvaG4tY2FjY2lhbWFuaS1zdGVwcy1kb3duLWFzLWNoZXN0bnV0LWhpbGwtaG9zcGl0YWwtY2VvLDMxMzYx0gEA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " James Helstrom : External News Event",
+    "category": "External News Event",
+    "date": "2023-07-08",
+    "description": "https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LnR2aW5zaWRlci5jb20vZ2FsbGVyeS9ncmFudGNoZXN0ZXItZm9ybWVyLXN0YXJzLXdoZXJlLWFyZS10aGV5LW5vdy_SAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " James Helstrom : External News Event",
+    "category": "External News Event",
+    "date": "2023-05-16",
+    "description": "https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9mbHRpbWVzL25hbWUvcGF0cmljaWEtYnVja2xpbi1vYml0dWFyeT9pZD01MTkyNTQ3OdIBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " James Helstrom : External News Event",
+    "category": "External News Event",
+    "date": "2023-08-10",
+    "description": "https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LnRoZWJ1bGxldGludGltZS5jb20vc25ld3MvaGVsc3Ryb20tc2Vhc29uLTItcmVsZWFzZS1kYXRlLXN0b3J5bGluZS1jYXN0LW1lbWJlcnMtYW5kLWV2ZXJ5dGhpbmcteW91LW5lZWQtdG8ta25vdy_SAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jerome Maddox : External News Event",
+    "category": "External News Event",
+    "date": "2023-07-13",
+    "description": "https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LmxhdzM2MC5jb20vZW1wbG95bWVudC1hdXRob3JpdHkvYXJ0aWNsZXMvMTY5OTM5Ny90ZW1wbGUtaGVhbHRoLWhpdC13aXRoLXJldGFsaWF0aW9uLXN1aXQtYnktZXgtdGVjaC1kaXJlY3RvctIBQGh0dHBzOi8vd3d3LmxhdzM2MC5jb20vZW1wbG95bWVudC1hdXRob3JpdHkvYW1wL2FydGljbGVzLzE2OTkzOTc?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jerome Maddox : External News Event",
+    "category": "External News Event",
+    "date": "2023-10-24",
+    "description": "https://news.google.com/articles/CBMinAFodHRwczovL3BhbnRhZ3JhcGguY29tL25ld3MvbG9jYWwvMTAwLWJsYWNrLW1lbi1vZi1jZW50cmFsLWlsbGlub2lzLXRvLW1hcmstMjAteWVhcnMtaW4tYmxvb21pbmd0b24tbm9ybWFsL2FydGljbGVfNjdhZGViOWEtNzFkZi0xMWVlLThkMTUtMWZlNzU3ZThlMmVkLmh0bWzSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jerome Maddox : External News Event",
+    "category": "External News Event",
+    "date": "2023-05-17",
+    "description": "https://news.google.com/articles/CBMihwFodHRwczovL3BhbnRhZ3JhcGguY29tL25ld3MvbG9jYWwvY2hpbGRyZW5zLWRpc2NvdmVyeS1tdXNldW0tbmFtZXMtZWR1Y2F0aW9uLWRpcmVjdG9yL2FydGljbGVfZTZiODY5NjQtZjQxZC0xMWVkLWFjNmUtNWY5ZWVhNDRhMWQ0Lmh0bWzSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jerome Maddox : External News Event",
+    "category": "External News Event",
+    "date": "2024-02-13",
+    "description": "https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9waGlsYWRlbHBoaWEvbmV3cy8yMDI0LzAyLzEyL3BoaWxhZGVscGhpYS1pbmZsdWVuY2Vycy1jb2xsZWN0aW9uLTIwMjMtMjQuaHRtbNIBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jerome Maddox : External News Event",
+    "category": "External News Event",
+    "date": "2023-04-20",
+    "description": "https://news.google.com/articles/CBMiS2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL3RlcnJ5LW1hZGRveC1vYml0dWFyeT9pZD01MTY4MzUxNNIBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jerome Maddox : External News Event",
+    "category": "External News Event",
+    "date": "2024-02-06",
+    "description": "https://news.google.com/articles/CBMiYGh0dHBzOi8vMjQ3c3BvcnRzLmNvbS9jb2xsZWdlL3hhdmllci9hcnRpY2xlL3hhdmllci1tdXNrZXRlZXJzLWJhc2tldGJhbGwtbGl2ZS1zdHJlYW0tMjI2NzYwMDI3L9IBZGh0dHBzOi8vMjQ3c3BvcnRzLmNvbS9jb2xsZWdlL3hhdmllci9hcnRpY2xlL3hhdmllci1tdXNrZXRlZXJzLWJhc2tldGJhbGwtbGl2ZS1zdHJlYW0tMjI2NzYwMDI3L2FtcC8?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jerome Maddox : External News Event",
+    "category": "External News Event",
+    "date": "2024-03-06",
+    "description": "https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3LnNwb3J0c3RhbGtwaGlsbHkuY29tL25ld3MvbmZsLW9mZnNlYXNvbi1lYWdsZXMtbWFkZG94LXJlbGVhc2XSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jerome Maddox : External News Event",
+    "category": "External News Event",
+    "date": "2023-01-12",
+    "description": "https://news.google.com/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3MTAxMjA2Mi5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjcxMDEyMDYyLmh0bWw?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jerome Maddox : External News Event",
+    "category": "External News Event",
+    "date": "2023-03-07",
+    "description": "https://news.google.com/articles/CBMiR2h0dHBzOi8vd3d3LmtlbnR1Y2t5LmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI3Mjg0MDg0NS5odG1s0gFHaHR0cHM6Ly9hbXAua2VudHVja3kuY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjcyODQwODQ1Lmh0bWw?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jerome Maddox : External News Event",
+    "category": "External News Event",
+    "date": "2023-02-26",
+    "description": "https://news.google.com/articles/CBMiXmh0dHBzOi8vb2JpdHMudGhlYWR2b2NhdGUuY29tL3VzL29iaXR1YXJpZXMvdGhlYWR2b2NhdGUvbmFtZS9kd2FuZS1kb3VjZXQtb2JpdHVhcnk_aWQ9NDgzOTE0OTnSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jarred Matchett : External News Event",
+    "category": "External News Event",
+    "date": "2023-04-10",
+    "description": "https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmJpempvdXJuYWxzLmNvbS9waGlsYWRlbHBoaWEvbmV3cy8yMDIzLzA0LzEwL3d2dS1oZWFsdGgtc3lzdGVtLXRlbXBsZS11bml2ZXJzaXR5Lmh0bWzSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Jarred Matchett : External News Event",
+    "category": "External News Event",
+    "date": "2023-11-09",
+    "description": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vd3d3Lm1vdW50YWludmlld3RvZGF5LmNhL29iaXR1YXJpZXMvbWF0Y2hldHQtdmlvbGV0LTc4MTE0MTfSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Glenn Rall : External News Event",
+    "category": "External News Event",
+    "date": "2023-10-06",
+    "description": "https://news.google.com/articles/CBMijwFodHRwczovL3d3dy53c2xzLmNvbS9uZXdzL2xvY2FsLzIwMjMvMTAvMDYveW91bmdraW4tYWRtaW5pc3RyYXRpb24tcm9sbHMtb3V0LWFsbC1pbi12YS1pbml0aWF0aXZlLXRvLWFkZHJlc3MtbGVhcm5pbmctbG9zcy1jaHJvbmljLWFic2VudGVlaXNtL9IBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Glenn Rall : External News Event",
+    "category": "External News Event",
+    "date": "2023-03-05",
+    "description": "https://news.google.com/articles/CBMiKWh0dHBzOi8vd3d3LmZveGNoYXNlLm9yZy9nYWJyaWVsYS1rcm9jaHRh0gEA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Glenn Rall : External News Event",
+    "category": "External News Event",
+    "date": "2023-12-19",
+    "description": "https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3LmRleGVydG8uY29tL3R2LW1vdmllcy9hbnlvbmUtYnV0LXlvdS1jYXN0LWNoYXJhY3RlcnMtMjQzODUzMy_SAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Glenn Rall : External News Event",
+    "category": "External News Event",
+    "date": "2024-02-20",
+    "description": "https://news.google.com/articles/CBMiQWh0dHBzOi8vd3d3LmthbnNhc2NpdHkuY29tL25ld3MvbG9jYWwvY3JpbWUvYXJ0aWNsZTI4NTcwNDU0Ni5odG1s0gFBaHR0cHM6Ly9hbXAua2Fuc2FzY2l0eS5jb20vbmV3cy9sb2NhbC9jcmltZS9hcnRpY2xlMjg1NzA0NTQ2Lmh0bWw?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Glenn Rall : External News Event",
+    "category": "External News Event",
+    "date": "2023-07-12",
+    "description": "https://news.google.com/articles/CBMiRmh0dHBzOi8vZGVsYXdhcmVsaXZlLmNvbS9taWQtc3Vzc2V4LXdpbnMtc2VuaW9yLWxlYWd1ZS1iYXNlYmFsbC10aXRsZS_SAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Anna Rodriguez : External News Event",
+    "category": "External News Event",
+    "date": "2024-02-07",
+    "description": "https://news.google.com/articles/CBMiRWh0dHBzOi8vd3d3LnN1bnNldGZ1bmVyYWxob21lcy5uZXQvb2JpdHVhcmllcy9hbm5hLWplYW5ldHRlLXJvZHJpZ3VletIBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Anna Rodriguez : External News Event",
+    "category": "External News Event",
+    "date": "2023-12-14",
+    "description": "https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9mb29kLzIwMjMvMTIvMTQvYXJyb3otcm9qby1tZXhpY2FuLXJlZC1yaWNlLXJlY2lwZS_SAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Anna Rodriguez : External News Event",
+    "category": "External News Event",
+    "date": "2024-04-22",
+    "description": "https://news.google.com/articles/CBMibmh0dHBzOi8vY2EubW92aWVzLnlhaG9vLmNvbS9tb3ZpZXMvbmV3cy9zZWFyY2hpbmctc3VnYXItbWFuLWRpcmVjdG9yLW1hbGlrLWJlbmRqZWxsb3VsLWRpZXMtYWdlLTExMzQzNzY3MC5odG1s0gEA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Anna Rodriguez : External News Event",
+    "category": "External News Event",
+    "date": "2023-08-17",
+    "description": "https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LmdlZWt3aXJlLmNvbS8yMDIzL2V4LXppbGxvdy1jZW8tc3BlbmNlci1yYXNjb2ZmLWpvaW5zLWZvcm1lci1jb2xsZWFndWVzLXRvLWxhdW5jaC1haS1wZXJzb25hbC1hc3Npc3RhbnQtc3RhcnR1cC_SAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Anna Rodriguez : External News Event",
+    "category": "External News Event",
+    "date": "2024-02-13",
+    "description": "https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2FubmEtcm9kcmlndWV6LW9iaXR1YXJ5P2lkPTU0MzYyMjcy0gEA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Anna Rodriguez : External News Event",
+    "category": "External News Event",
+    "date": "2023-06-27",
+    "description": "https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3LmFod2F0dWtlZS5jb20vc3BlY2lhbF9zZWN0aW9ucy9hcnRpY2xlXzRiYzJhMDZjLWE2M2YtMTFlNC05Nzg4LWUzY2EyYmM2M2M4Mi5odG1s0gEA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Anna Rodriguez : External News Event",
+    "category": "External News Event",
+    "date": "2023-12-16",
+    "description": "https://news.google.com/articles/CBMinAFodHRwczovL3d3dy5uZXdzNGpheC5jb20vbmV3cy9sb2NhbC8yMDIzLzEyLzE2L2xvdmVkLW9uZXMtc2F5LWxhc3QtZ29vZGJ5ZXMtdG8tamFja3NvbnZpbGxlLW1vdGhlci0xLXllYXItb2xkLWtpbGxlZC1ieS1zdXNwZWN0ZWQtZHJ1bmstZHJpdmVyLWluLXRlbm5lc3NlZS_SAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Anna Rodriguez : External News Event",
+    "category": "External News Event",
+    "date": "2023-07-10",
+    "description": "https://news.google.com/articles/CBMihQFodHRwczovL3dzZXQuY29tL25ld3NsZXR0ZXItZGFpbHkvZWwtZ29yZG9zLWtpdGNoZW4tcm9sbHMtaW50by1oaWxsLWNpdHktbHluY2hidXJnLXZpcmdpbmlhLW1leGljYW4tbHVpcy1hbmQtYW5uYS1yb2RyaWd1ZXotanVseS0yMDIz0gGJAWh0dHBzOi8vd3NldC5jb20vYW1wL25ld3NsZXR0ZXItZGFpbHkvZWwtZ29yZG9zLWtpdGNoZW4tcm9sbHMtaW50by1oaWxsLWNpdHktbHluY2hidXJnLXZpcmdpbmlhLW1leGljYW4tbHVpcy1hbmQtYW5uYS1yb2RyaWd1ZXotanVseS0yMDIz?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Anna Rodriguez : External News Event",
+    "category": "External News Event",
+    "date": "2024-01-03",
+    "description": "https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9mb29kLzIwMjQvMDEvMDMvZHJ5LWphbnVhcnktemVyby1wcm9vZi1ub25hbGNvaG9saWMtZHJpbmtzL9IBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Anna Rodriguez : External News Event",
+    "category": "External News Event",
+    "date": "2024-03-26",
+    "description": "https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2phbWVzLXJvZHJpZ3Vlei1vYml0dWFyeT9pZD01NDcyMTQ5NdIBAA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Anna Rodriguez : External News Event",
+    "category": "External News Event",
+    "date": "2023-11-28",
+    "description": "https://news.google.com/articles/CBMiiAFodHRwczovL3d3dy5uZXdzNGpheC5jb20vbmV3cy9sb2NhbC8yMDIzLzExLzI5L2phY2tzb252aWxsZS1tb3RoZXItMS15ZWFyLW9sZC1raWxsZWQtYnktc3VzcGVjdGVkLWRydW5rLWRyaXZlci13aGlsZS12aXNpdGluZy10ZW5uZXNzZWUv0gEA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Anna Rodriguez : External News Event",
+    "category": "External News Event",
+    "date": "2023-12-05",
+    "description": "https://news.google.com/articles/CBMiRmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9mb29kLzIwMjMvMTIvMDUvbGF0a2UtcmVjaXBlcy1oYW51a2thaC_SAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Anna Rodriguez : External News Event",
+    "category": "External News Event",
+    "date": "2024-01-10",
+    "description": "https://news.google.com/articles/CBMiTGh0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2FuYS1yb2RyaWd1ZXotb2JpdHVhcnk_aWQ9NTQwNTY3NzPSAQA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Anna Rodriguez : External News Event",
+    "category": "External News Event",
+    "date": "2023-11-02",
+    "description": "https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2FubmEtY2FuZGlvdG8tbWFyc2hhbGwtcm9kcmlndWV6LW9iaXR1YXJ5P2lkPTUzNDk4NjA30gEA?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": " Anna Rodriguez : External News Event",
+    "category": "External News Event",
+    "date": "2023-05-22",
+    "description": "https://news.google.com/articles/CBMiVGh0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvdXZhbGRlLXdvcmRzLWdyaWV2aW5nLW1vbS1wdXNoZXMtYW5zd2Vycy9zdG9yeT9pZD05ODU2MzA4NtIBWGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1VTL3V2YWxkZS13b3Jkcy1ncmlldmluZy1tb20tcHVzaGVzLWFuc3dlcnMvc3Rvcnk_aWQ9OTg1NjMwODY?hl=en-IN&gl=IN&ceid=IN%3Aen"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "Virtual",
+    "date": "2023-02-01 11:19:15",
+    "description": "MSL Meeting Brief_vod | Group Detail | JEMPERLI (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "F2F",
+    "date": "2023-03-25 14:57:00",
+    "description": "MSL Meeting Brief_vod | Group Detail | ZEJULA (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "Virtual",
+    "date": "2023-04-05 14:04:25",
+    "description": "MSL Meeting Brief_vod | Group Detail | ZEJULA (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "Virtual",
+    "date": "2023-09-22 15:56:41",
+    "description": "MSL Meeting Brief_vod | Group Detail | JEMPERLI (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "F2F",
+    "date": "2023-07-20 14:25:00",
+    "description": "MSL Meeting Brief_vod | Group Detail | INVESTIGATIONAL ONCOLOGY (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "F2F",
+    "date": "2023-10-27 11:25:48",
+    "description": "MSL Meeting Brief_vod | Group Detail | ZEJULA (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "Virtual",
+    "date": "2023-03-06 16:15:00",
+    "description": "MSL Meeting Brief_vod | Group Detail | ZEJULA (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "F2F",
+    "date": "2023-10-27 07:13:00",
+    "description": "MSL Meeting Brief_vod | Group Detail | JEMPERLI (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "Email",
+    "date": "2023-09-22 16:15:19",
+    "description": "MSL Meeting Brief_vod | Group Detail | JEMPERLI (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "Email",
+    "date": "2023-08-01 15:28:11",
+    "description": "MSL Meeting Brief_vod | Group Detail | JEMPERLI (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "F2F",
+    "date": "2023-10-27 11:25:48",
+    "description": "MSL Meeting Brief_vod | Group Detail | JEMPERLI (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "F2F",
+    "date": "2023-07-21 09:02:00",
+    "description": "MSL Meeting Brief_vod | Group Detail | INVESTIGATIONAL ONCOLOGY (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "Virtual",
+    "date": "2023-01-30 14:25:00",
+    "description": "MSL Meeting Brief_vod | Group Detail | ZEJULA (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "Email",
+    "date": "2023-08-01 15:29:18",
+    "description": "MSL Meeting Brief_vod | Group Detail | JEMPERLI (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "Virtual",
+    "date": "2023-01-10 15:12:00",
+    "description": "MSL Meeting Brief_vod | Group Detail | ANTI-PVRIG ANTIBODY [GSK4381562] (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "Virtual",
+    "date": "2023-03-14 08:08:21",
+    "description": "MSL Meeting Brief_vod | Group Detail | ZEJULA (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "Virtual",
+    "date": "2023-02-01 11:19:15",
+    "description": "MSL Meeting Brief_vod | Group Detail | ANTI-PVRIG ANTIBODY [GSK4381562] (M)"
+  },
+  {
+    "tag": "Interaction: Meeting",
+    "category": "Virtual",
+    "date": "2023-01-19 09:56:54",
+    "description": "MSL Meeting Brief_vod | Group Detail | ZEJULA (M)"
+  }
+]

@@ -1,0 +1,32 @@
+trigger:
+  branches:
+    include:
+      - main
+      - release/*
+
+pool:
+  vmImage: 'windows-2019'
+
+# User defined parameters
+variables:
+  - group: CO_DevOpsAutomation
+
+jobs:
+  - job: Sync_branch_toGSK
+    displayName: "Synchronizing $(Build.SourceBranch) to GSK"
+    steps:
+    - task: PowerShell@2
+      displayName: 'PowerShell Script'
+      inputs:
+        targetType: filePath
+        filePath: 'AzurePipelines/BranchAutomation/SyncRepoTask.ps1'
+        arguments: "
+        -userName           $(Build.QueuedBy)
+        -ori_token          $(System.AccessToken)
+        -ori_Repo_link      $(System.CollectionUri)$(System.TeamProject)/_git/$(Build.Repository.Name)
+        -ori_Repo_name      $(Build.Repository.Name)
+        -ori_branch         $(Build.SourceBranch)
+        -tar_token          $(GskGitHub_HRTP_PAT)
+        -tar_Repo_link      $(GskGitHub_baseurl)/$(GskGitHub_HRTP_Backend_repo)
+        -tar_branch         $(Build.SourceBranch)
+        "
