@@ -9,7 +9,6 @@ from utils.Token import admin_required, jwt_required
 deepdive_api_v1 = Blueprint('deepdive_api_v1', 'deepdive_api_v1', url_prefix='/api/v1/deepdive')
 CORS(deepdive_api_v1)
 
-
 @deepdive_api_v1.route('/graph/user', methods=['GET'])
 @jwt_required()
 def data_by_user():
@@ -21,13 +20,12 @@ def data_by_user():
     else:
         return Utils.create_response(_ret[1], code=RetCodes.Not_Found)
 
-
 @deepdive_api_v1.route('/graph/country', methods=['GET'])
 @jwt_required()
-def graph_by_country():
+def data_by_country():
     data = Utils.get_request_data(request)
     print(data, "--------------------------------------------------------")
-    _ret = Controller.graph_by_country(data)
+    _ret = Controller.data_by_country(data)
     if _ret[0]:
         return Utils.create_response(_ret[1], data=_ret[2])
     else:
@@ -36,9 +34,9 @@ def graph_by_country():
 
 @deepdive_api_v1.route('/graph/node', methods=['GET'])
 @jwt_required()
-def graph_by_node():
+def data_by_node():
     data = Utils.get_request_data(request)
-    _ret = Controller.graph_by_node(data)
+    _ret = Controller.data_by_node(data)
     if _ret[0]:
         return Utils.create_response(_ret[1], data=_ret[2])
     else:
@@ -79,5 +77,3 @@ def overview():
         return Utils.create_response(_ret[1], data=_ret[2])
     else:
         return Utils.create_response(_ret[1], code=RetCodes.Not_Found)
-
-

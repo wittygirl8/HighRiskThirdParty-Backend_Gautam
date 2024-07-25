@@ -12,9 +12,14 @@ class DeepdiveController:
         return _obj.get_countries(data)
 
     @staticmethod
-    def graph_by_node(data):
+    def data_by_country(data):
         _obj = Deepdive()
-        return _obj.graph_by_node(data)
+        return _obj.data_by_country(data)
+
+    @staticmethod
+    def data_by_node(data):
+        _obj = Deepdive()
+        return _obj.data_by_node(data)
 
     @staticmethod
     def timeline(data):
@@ -30,8 +35,3 @@ class DeepdiveController:
     def overview(data):
         _obj = Deepdive()
         return _obj.overview(data)
-
-    @staticmethod
-    def graph_by_country(data):
-        _obj = Deepdive()
-        return _obj.graph_by_country(data)

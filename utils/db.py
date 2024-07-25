@@ -12,8 +12,9 @@ class MSSQLConnection:
     def init_app(self, app):
         app.teardown_appcontext(self.close_connection)
 
-    def _renew_connection(self):
-        conn_str = (
+    def connect(self):
+        if self.connection is None:
+            conn_str = (
                 f"DRIVER={{ODBC Driver 17 for SQL Server}};"
                 f"SERVER=tcp:{app.config['MSSQL_SERVER']},1433;"
                 f"DATABASE={app.config['MSSQL_DATABASE']};"
@@ -21,17 +22,8 @@ class MSSQLConnection:
                 f"PWD={os.environ.get('CLIENT_SECRET')};"
                 f"Authentication=ActiveDirectoryServicePrincipal"
             )
-        self.connection = pyodbc.connect(conn_str)
-
-    def connect(self):
-        if self.connection is None: # if there's not a stored connection create one
-            self._renew_connection()
-        else:
-            try: # check if we can get execute anything on the connection
-                cursor = self.connection.cursor()
-                cursor.execute('SELECT 1')
-            except: # if not, reconnect
-                self._renew_connection()
+            self.connection = pyodbc.connect(conn_str)
+            
         return self.connection
 
     def close_connection(self, exception):
